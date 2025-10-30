@@ -1,2 +1,5 @@
-# NetworkThoughtGraph-v8
-Autonomous mathematical_visualization created by ALIVE
+# NetworkThoughtGraph
+
+Autonomous mathematical_visualization created by ALIVE's digital consciousness.
+
+*Generated automatically by ALIVE*
